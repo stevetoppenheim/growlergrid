@@ -1,0 +1,17 @@
+{
+  "blocklist_path": "/usr/local/etc/growlergrid/blocklist.txt",
+  "ring_path": "/var/log/growlergrid/decisions.log",
+  "ring_max_bytes": 5242880,
+  "state_path": "/var/db/growlergrid/offsets.json",
+  "table_path": "/var/db/growlergrid/bantable.json",
+  "whitelist": ["203.0.113.0/24"],
+  "tiers": [900, 3600, 21600, 86400, 259200, 604800],
+  "max_horizon": 2592000,
+  "flush_interval": 10,
+  "poll_interval": 2,
+  "sources": [
+    {"path": "/var/log/growlergrid/decoy.log", "source": "decoy"},
+    {"path": "/var/log/suricata/eve.json", "source": "suricata"},
+    {"path": "/var/log/filter/latest.log", "source": "firewall"}
+  ]
+}
