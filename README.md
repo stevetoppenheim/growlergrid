@@ -61,3 +61,11 @@ This is a community recipe, not a product. Useful contributions: run the hardwar
 ## License
 
 MIT. See `LICENSE`.
+
+## Related projects
+
+From the same author:
+
+- **[cryptsecure](https://www.opey.org/opeyit/cryptsecure/)** - an offline Windows app for RSA + AES hybrid encryption of files and messages, where your private key is a portable `.pem` file you own and control, not a black box (with an Outlook and Word add-in).
+- **[cryptsecure-broker](https://www.opey.org/opeyit/cryptsecure-broker/)** - a self-hosted WordPress plugin that brokers end-to-end encrypted file exchange between parties (invite, deposit, pickup, recall, hash-chained audit log) while the server never sees plaintext.
+
