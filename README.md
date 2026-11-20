@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/78c39601-8a5b-4dcc-914e-d65d222415b5
+
+
+
 # GrowlerGrid
 
 A free, self-maintaining reactive-defense recipe for OPNsense: it detects an attack, denies the source at the edge, logs it with evidence, and shares the indicator to a global blocklist. Named after the EA-18G Growler, which loiters, catches an emitter the moment it lights up, and denies it. Here the "weapon" is lawful denial and cost-imposition, never hacking back.
